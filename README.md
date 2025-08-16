@@ -148,6 +148,3 @@ ___
 Este proyecto se publica con fines educativos y de análisis interno para Telecom X.
 
 ---
-
-## Contacto
-Diana Delgado: github/Diana13Delgado
